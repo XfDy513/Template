@@ -1,0 +1,197 @@
+@CHARSET "UTF-8";
+
+/*
+The CSS style for cndns easySite
+fucking black
+By Kangk.L
+*/
+
+/* Global Setting */
+html, body { padding:0; margin:0; height:100%; width:100%; text-align:center; font-size:11px; font-family:Verdana, Geneva, sans-serif, ''; color:#333;}
+input, form, h1, h2, h3, h4, h5, h6, ul, li { padding:0; margin:0; }
+ul, li { list-style:none; }
+img { border:0; }
+a { font-size:11px; color:#666; text-decoration:none; }
+a:hover { font-size:11px; color:#333; text-decoration:underline; }
+
+.air { height:10px; display:block; clear:both; }
+.space { height:4px; display:block; clear:both; }
+.clear { display:block; clear:both; }
+
+.right { text-align: right !important; }
+.left { text-align: left !important; }
+.center { text-align: center !important; }
+
+.small { font-size: 10px; }
+
+/*panel style*/
+#content_body_wrapper { margin:auto;  width:90%; padding:20px; }
+
+.content_title {
+	border-bottom: 3px solid #005abf;
+	text-align: left;
+}
+.content_title h3 {
+	margin: 4px 0px;
+	color: #333;
+}
+
+.content_toolbar {
+	padding-left: 4px;
+	background: #e8eef6;
+	text-align: left;
+	line-height: 28px;
+}
+
+.list_table, .form_table {
+	margin: 0px auto;
+	width: 96%;
+	border: 1px solid #005abf;
+}
+.list_table thead th {
+	padding: 2px 0px;
+	background: #F4FED7;
+	color: #333;
+}
+.list_table tbody td {
+	padding: 2px;
+	text-align: center;
+}
+.list_table tr.row_style_0 {
+	background: #e8eef6;
+}
+
+.form_table tbody td.label {
+	text-align: right;
+	font-weight: bold;
+	background: #005abf;
+	color: #fff;
+	line-height: 24px;
+	padding: 0px 4px 0px 0px;
+	width: 120px;
+}
+.form_table tbody td.entry {
+	text-align: left;
+	padding: 0px 0px 0px 4px;
+	line-height: 24px;
+	background: #e8eef6;
+}
+.form_table tfoot td {
+	padding: 4px;
+	border-top: 1px solid #005abf;
+	text-align: right;
+}
+
+.wrap_table td {
+    padding-right: 4px;
+    text-align: left;
+}
+
+.status {
+    color: #FFA32B;
+    display: block;
+    text-align: center;
+    font-size: 11px;
+    padding: 2px 0px;
+	height:40px;
+	line-height:40px;
+}
+
+#pager {
+    margin: 0px auto;
+}
+#pager td a {
+	display: block;
+    padding: 0px 6px;
+    line-height: 20px;
+    text-align: center;
+    font-weight: bold;
+    color: #005abf;
+    background: #e8eef6;
+}
+#pager td a:hover {
+	background: #005abf;
+	color: #fff;
+}
+
+#template_grid {
+	width: 100%;
+}
+#template_grid td {
+	text-align: center;
+	background: #F4FED7;
+}
+#template_grid td img.tpl_thumb {
+	border-top: 2px solid #dedede;
+	border-left: 2px solid #dedede;
+	border-right: 2px solid #999;
+	border-bottom: 2px solid #999;
+	width: 160px;
+	height: 120px;
+	margin-top: 4px;
+}
+#template_grid .small {
+    display: block;
+    padding: 3px 0px;
+}
+
+.media_grid {
+	width: 100%;
+}
+.media_grid thead td {
+	text-align: left;
+}
+.media_grid td {
+    text-align: center;
+    background: #F4FED7;
+}
+.media_grid td img.media_thumb {
+    border-top: 2px solid #dedede;
+    border-left: 2px solid #dedede;
+    border-right: 2px solid #999;
+    border-bottom: 2px solid #999;
+    width: 80px;
+    height: 80px;
+    margin-top: 4px;
+}
+.media_grid .small {
+    display: block;
+    padding: 3px 0px;
+}
+
+.label{
+text-align:right;
+padding-right:8px;
+height:30px;
+line-height:30px;
+}
+.entry{
+text-align:left;
+height:30px;
+line-height:30px;
+}
+#chk_login_rs{
+    color: #EE6D40;
+	font-weight:bold;
+position:absolute;
+}
+#regform_table input{
+width:93px;
+height:18px;
+line-height:18px;
+padding-left:8px;
+padding-right:8px;
+border:#9CA9C9 1px solid;
+font-size:12px;
+color:#666;
+margin-top:4px;
+}
+#a123 input{
+width:56px;
+height:23px;
+line-height:23px;
+font-size:12px;
+border:0px;
+color:#fff;
+background:url(../images/fruit02_20.jpg) #234B9A;
+}

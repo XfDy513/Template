@@ -1,0 +1,57 @@
+如果只是安装默认模板：
+解压《建站之星2.7主程序》进行安装，里面有安装说明，照安装说明可以一步一步安装成功。实在不明白可以百度建站之星到官网看帮助。
+
+如果想要更多模板：
+解压《建站之星V2.7破解版约1932套模板》，可以看到里面有很多模板，选择你想要的模板，复制到安装目录的template目录下，格式要和template格式一样。
+
+登录 后台 到前台 更换模板，记得查找你放置的模板的编号。按后安装就OK
+
+
+
+=================
+快速的把所有模板都拷贝到网站模板目录方法：
+ctrl+h 呼出替换框 把 “F:\baiduyundownload\建站之星V2.7破解版约2000套模板\”替换为你的下载文件解压路径，替换”f:\aaa\“为你的目标文件夹。
+然后删除==========以下的内容。另存为123.bat 执行就OK
+
+xcopy F:\baiduyundownload\建站之星V2.7破解版约2000套模板\IT科技、软件\*.* f:\aaa\ /s
+xcopy F:\baiduyundownload\建站之星V2.7破解版约2000套模板\IT科技、软件\*.* f:\aaa\ /s
+xcopy F:\baiduyundownload\建站之星V2.7破解版约2000套模板\五金、门窗\*.* f:\aaa\ /s
+xcopy F:\baiduyundownload\建站之星V2.7破解版约2000套模板\仪器、仪表、量具\*.* f:\aaa\ /s
+xcopy F:\baiduyundownload\建站之星V2.7破解版约2000套模板\传媒、广电\*.* f:\aaa\ /s
+xcopy F:\baiduyundownload\建站之星V2.7破解版约2000套模板\公司注册、商标专利\*.* f:\aaa\ /s
+xcopy F:\baiduyundownload\建站之星V2.7破解版约2000套模板\农业、林业\*.* f:\aaa\ /s
+xcopy F:\baiduyundownload\建站之星V2.7破解版约2000套模板\办公、文教、乐器\*.* f:\aaa\ /s
+xcopy F:\baiduyundownload\建站之星V2.7破解版约2000套模板\化工、化学、涂料\*.* f:\aaa\ /s
+xcopy F:\baiduyundownload\建站之星V2.7破解版约2000套模板\医疗、药品、保健\*.* f:\aaa\ /s
+xcopy F:\baiduyundownload\建站之星V2.7破解版约2000套模板\印刷、包装\*.* f:\aaa\ /s
+xcopy F:\baiduyundownload\建站之星V2.7破解版约2000套模板\学校、教育、培训\*.* f:\aaa\ /s
+xcopy F:\baiduyundownload\建站之星V2.7破解版约2000套模板\安防、监控器材\*.* f:\aaa\ /s
+xcopy F:\baiduyundownload\建站之星V2.7破解版约2000套模板\家居、家纺、日用百货\*.* f:\aaa\ /s
+xcopy F:\baiduyundownload\建站之星V2.7破解版约2000套模板\家电、影音设备\*.* f:\aaa\ /s
+xcopy F:\baiduyundownload\建站之星V2.7破解版约2000套模板\展览、展会\*.* f:\aaa\ /s
+xcopy F:\baiduyundownload\建站之星V2.7破解版约2000套模板\广告、设计装修\*.* f:\aaa\ /s
+xcopy F:\baiduyundownload\建站之星V2.7破解版约2000套模板\建筑、建材\*.* f:\aaa\ /s
+xcopy F:\baiduyundownload\建站之星V2.7破解版约2000套模板\房地产、房屋租赁\*.* f:\aaa\ /s
+xcopy F:\baiduyundownload\建站之星V2.7破解版约2000套模板\手机、数码、电脑\*.* f:\aaa\ /s
+xcopy F:\baiduyundownload\建站之星V2.7破解版约2000套模板\拍卖、典当\*.* f:\aaa\ /s
+xcopy F:\baiduyundownload\建站之星V2.7破解版约2000套模板\文化、娱乐休闲\*.* f:\aaa\ /s
+xcopy F:\baiduyundownload\建站之星V2.7破解版约2000套模板\服装、鞋帽、皮具\*.* f:\aaa\ /s
+xcopy F:\baiduyundownload\建站之星V2.7破解版约2000套模板\机械、工业制品\*.* f:\aaa\ /s
+xcopy F:\baiduyundownload\建站之星V2.7破解版约2000套模板\橡胶、塑料制品\*.* f:\aaa\ /s
+xcopy F:\baiduyundownload\建站之星V2.7破解版约2000套模板\汽车、汽配\*.* f:\aaa\ /s
+xcopy F:\baiduyundownload\建站之星V2.7破解版约2000套模板\照明、灯具、能源\*.* f:\aaa\ /s
+xcopy F:\baiduyundownload\建站之星V2.7破解版约2000套模板\玩具、游戏机\*.* f:\aaa\ /s
+xcopy F:\baiduyundownload\建站之星V2.7破解版约2000套模板\环保、废料回收\*.* f:\aaa\ /s
+xcopy F:\baiduyundownload\建站之星V2.7破解版约2000套模板\珠宝、首饰、饰品\*.* f:\aaa\ /s
+xcopy F:\baiduyundownload\建站之星V2.7破解版约2000套模板\电子、电器、电工\*.* f:\aaa\ /s
+xcopy F:\baiduyundownload\建站之星V2.7破解版约2000套模板\票务、酒店、餐饮\*.* f:\aaa\ /s
+xcopy F:\baiduyundownload\建站之星V2.7破解版约2000套模板\纺织、皮革\*.* f:\aaa\ /s
+xcopy F:\baiduyundownload\建站之星V2.7破解版约2000套模板\美容、美发、护肤\*.* f:\aaa\ /s
+xcopy F:\baiduyundownload\建站之星V2.7破解版约2000套模板\翻译、法律、会计\*.* f:\aaa\ /s
+xcopy F:\baiduyundownload\建站之星V2.7破解版约2000套模板\贸易、物流、货运
+xcopy F:\baiduyundownload\建站之星V2.7破解版约2000套模板\运动、户外、宠物用品\*.* f:\aaa\ /s
+xcopy F:\baiduyundownload\建站之星V2.7破解版约2000套模板\金融、保险、证券\*.* f:\aaa\ /s
+xcopy F:\baiduyundownload\建站之星V2.7破解版约2000套模板\钟表、眼镜\*.* f:\aaa\ /s
+xcopy F:\baiduyundownload\建站之星V2.7破解版约2000套模板\风景、旅游\*.* f:\aaa\ /s
+xcopy F:\baiduyundownload\建站之星V2.7破解版约2000套模板\食品、饮料、茶叶、酒类\*.* f:\aaa\ /s
+xcopy F:\baiduyundownload\建站之星V2.7破解版约2000套模板\鲜花、礼品、工艺品\*.* f:\aaa\ /s
